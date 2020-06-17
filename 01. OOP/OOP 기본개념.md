@@ -52,6 +52,8 @@
 
 
 ## **OOP의 5대 원칙 (SOLID 원칙)**
+
+![solid 법칙](https://image.slidesharecdn.com/oopdesignprinciple-100626012938-phpapp02/95/oop-design-principle-3-728.jpg?cb=1277515810)
 ---
 
 ### **SRP(단일 책임의 원칙 : Single Responsibility Principle)**
@@ -120,7 +122,7 @@
 
   ### 2. 적용 방법
 
- ![짱짱 그림](https://lh3.googleusercontent.com/proxy/U3V__E4AfXM3_w_6EbvCiwEb2GSvkcX74lnIsVnPmeW8vzN7FEkc4fdZxBBSWIYiMmXFHrCB9v5N04dj-xuezIi21Lu4w4mmBYwKndVgPXUxk3g-oezwBRrT6d4jhhJeQmg9YQ)
+ ![짱짱 그림](https://t1.daumcdn.net/cfile/blog/245E674158ED329B1E)
 
  저는 이 그림보고 단번에 이해해버렸어요..
 
