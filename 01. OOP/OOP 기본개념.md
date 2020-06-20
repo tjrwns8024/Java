@@ -2,10 +2,10 @@
 **OOP**는 **Object Oriented Programming**의 줄임말로 객체지향 프로그래밍을 뜻합니다. 
 
 ## OOP의 특징 4가지
-- [캡슐화](#캡슐화(Encapsulation))
-- [추상화](#추상화(Abstraction))
-- [다형성](#다형성(Polymorphism))
-- [상속성](#상속성(Inheritance))
+- [캡슐화](#캡슐화(encapsulation))
+- [추상화](#추상화(abstraction))
+- [다형성](#다형성(polymorphism))
+- [상속성](#상속성(inheritance))
 
 <br/>
 
