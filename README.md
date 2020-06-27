@@ -41,6 +41,6 @@
 - 추상 클래스를 사용하는 3가지 이유에 대해 다룹니다. 
 
 ### **Multi Thread**
--[Multi Thread](https://github.com/tjrwns8024/Java/tree/master/08.%20Multi%20Thread)
+- [Multi Thread](https://github.com/tjrwns8024/Java/tree/master/08.%20Multi%20Thread)
 - 자바 멀티쓰레드에 관한 글입니다. 
 
